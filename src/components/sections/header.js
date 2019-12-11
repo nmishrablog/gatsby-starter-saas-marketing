@@ -29,13 +29,12 @@ const Header = () => {
           <HeaderTextGroup>
             <Subtitle>Personal Finance</Subtitle>
             <h1>
-              All your money,
+              Wisdom Curated,
               <br />
-              one account
+              by people.
             </h1>
             <h2>
-              We're building next generation personal finance tools. Sign up to
-              get early access.
+              We're a community of people collecting the best information about things we are interested in.Join us
             </h2>
             <HeaderForm onSubmit={handleSubmit}>
               <HeaderInput placeholder="Your email" />
